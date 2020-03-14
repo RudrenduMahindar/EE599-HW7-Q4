@@ -1,0 +1,2 @@
+# EE599-HW7-Q4
+For the Graph class defined in the beginning of the assignment, write a function that: 1. finds root nodes and report them in a set. A root node is a node that doesn’t have any incoming edges. 2. outputs a vector of nodes sorted in topological order. You can assume that the graph is directed and acyclic. Example: Input:  Output: 1. Root nodes: {7} 2. Topological order: [7, 6, 5, 4, 3, 2, 1, 0]
